@@ -1,0 +1,5 @@
+There are two versions of the Driver for this program: OpenDirectory.java that scans the words in text and html files using a BufferedReader and String.split and OpenDirectory1.java that uses Java Streams. You can start from either one of them.
+
+Both drivers count the number of occurrences of "the" in .txt files and the number of occurrences of "href=" in .html or *.htm files. They also write the file paths of all files they visit to output files. Both start with a FileChooser that allows you to pick the starting directory for the search.
+
+Assignment: Write a new program based on either driver and the iterators provided that asks the user for a search text and then looks for all files that either have that text in the file-name or, if the file is readable, contains that text as in the file. NOTE: ASSUME the search text does NOT contain spaces. LIMIT your readable files to any of the following (*.txt, *.text, *.java, *.c, *.cpp, *.h, *.htm, *.html, *.js, *.hs, *.xml, *.log)

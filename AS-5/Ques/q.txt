@@ -1,0 +1,5 @@
+Download and run EchoServer and EchoClient -- see demos on Panopto for November 8, starting at minute 38.
+
+Download and unzip the assignment05 file. Note there are no packages.
+
+Reconstruct GumballMachineServer.java and GumballMonitorClient.java. This is needed in the instantiations of all the streams that are send through the socket and in the loop where data is transferred through the socket. NOTE that: except for the TODO under the "report" option, every piece of the text of the code that was removed appears in a randomized order in the file "missing_pieces.txt"--you just need to put the jigsaw back together and then add your own code to put a complete 3-line report together.
