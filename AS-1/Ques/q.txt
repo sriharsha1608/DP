@@ -1,5 +1,1 @@
-See the renaming of the Java files as discussed in class. If you used Java, only upload the 2 adapter Java files (2 submissions are allowed). If you used another language, zip up all the code in one file.
-
-Read the document and code provided. (Version 9/6/2023: DLlist.java updated). 
-
-IDEALLY you will work in pairs and submit 1 response per group. You can join the group yourself (2 per group)
+See the renaming of the Java files as discussed in class. If you used Java, only upload the 2 adapter Java files (2 file submissions are allowed).
